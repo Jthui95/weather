@@ -6,4 +6,4 @@ This applicationw as developed at the 6th Homework to showcase the ability to ut
 
 ## H2 Deployed link
 
-[Click Here] (https://jthui95.github.io/weather/)
+[Click Here](https://jthui95.github.io/weather/)
